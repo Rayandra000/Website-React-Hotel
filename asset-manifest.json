@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Website-React-Hotel/static/css/main.a48de47b.css",
+    "main.js": "/Website-React-Hotel/static/js/main.5f93c2f2.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Website-React-Hotel/static/js/787.28cb0dcd.chunk.js",
+    "static/media/image-heading.jpg": "/Website-React-Hotel/static/media/image-heading.49f53eab01efd103a6e5.jpg",
+    "static/media/side-bg.jpg": "/Website-React-Hotel/static/media/side-bg.5ed027473a40927e7f0c.jpg",
+    "static/media/slick.svg": "/Website-React-Hotel/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Website-React-Hotel/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Website-React-Hotel/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Website-React-Hotel/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Website-React-Hotel/index.html",
+    "main.a48de47b.css.map": "/Website-React-Hotel/static/css/main.a48de47b.css.map",
+    "main.5f93c2f2.js.map": "/Website-React-Hotel/static/js/main.5f93c2f2.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Website-React-Hotel/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a48de47b.css",
+    "static/js/main.5f93c2f2.js"
+  ]
+}
